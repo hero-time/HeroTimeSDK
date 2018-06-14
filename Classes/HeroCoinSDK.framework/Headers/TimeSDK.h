@@ -21,9 +21,13 @@
  */
 @property (nonatomic, copy) NSString *gameId;
 
+/**
+ 谷歌 GoogleClientID
+ */
+@property (nonatomic, copy) NSString *GoogleClientID;
+
 @property (nonatomic, copy) NSString *FacebookAppID;
 @property (nonatomic, copy) NSString *FacebookSecret;
-@property (nonatomic, copy) NSString *GoogleAppID;
 
 
 /**
