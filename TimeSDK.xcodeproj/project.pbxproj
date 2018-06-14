@@ -16,6 +16,7 @@
 		E22E3B9120D22E9C00D0528F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E22E3B9020D22E9C00D0528F /* main.m */; };
 		E22E3B9B20D2320700D0528F /* HeroCoinResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E22E3B9820D2320700D0528F /* HeroCoinResources.bundle */; };
 		E22E3B9C20D2320700D0528F /* HeroCoinSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E22E3B9A20D2320700D0528F /* HeroCoinSDK.framework */; };
+		E22E3B9E20D2379000D0528F /* TimeSDK.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E22E3B9020D22E9C00D0528F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E22E3B9820D2320700D0528F /* HeroCoinResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HeroCoinResources.bundle; sourceTree = "<group>"; };
 		E22E3B9A20D2320700D0528F /* HeroCoinSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HeroCoinSDK.framework; sourceTree = "<group>"; };
+		E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TimeSDK.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		E22E3B7520D22E9A00D0528F = {
 			isa = PBXGroup;
 			children = (
+				E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */,
 				E22E3B9720D2320700D0528F /* Assets */,
 				E22E3B9920D2320700D0528F /* Classes */,
 				E22E3B8020D22E9A00D0528F /* TimeSDK */,
@@ -176,6 +179,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E22E3B9E20D2379000D0528F /* TimeSDK.podspec in Resources */,
 				E22E3B8E20D22E9C00D0528F /* LaunchScreen.storyboard in Resources */,
 				E22E3B8B20D22E9C00D0528F /* Assets.xcassets in Resources */,
 				E22E3B9B20D2320700D0528F /* HeroCoinResources.bundle in Resources */,
