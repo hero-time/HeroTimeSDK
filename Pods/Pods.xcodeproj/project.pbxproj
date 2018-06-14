@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FCE8761A7ABDF649DAB237C05AD4B158 /* Pods-TimeSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C8138F779BE5DD9EDA55E2FA37537 /* Pods-TimeSDK-dummy.m */; };
+		0A164A63B1876C242307FCF07AF62863 /* Pods-HeroTimeSDK-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6977D1CB82230A99BDD44D056F344122 /* Pods-HeroTimeSDK-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0DF6BCD826C09E645AD555933FCF2A30 /* Pods-TimeSDK-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TimeSDK-acknowledgements.plist"; sourceTree = "<group>"; };
-		4F56CFB01DED5F05DA128E4B1CE38059 /* Pods-TimeSDK-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TimeSDK-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5E19B8044A449C97EEFA8FE42D2CB5DE /* Pods-TimeSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TimeSDK.release.xcconfig"; sourceTree = "<group>"; };
-		6C0E702B9EBC07625AB83A6A13F871C8 /* libPods-TimeSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-TimeSDK.a"; path = "libPods-TimeSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6EC52AE1911E1DB610CA9596CC9AA6D4 /* Pods-TimeSDK-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TimeSDK-resources.sh"; sourceTree = "<group>"; };
-		8A8C8138F779BE5DD9EDA55E2FA37537 /* Pods-TimeSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TimeSDK-dummy.m"; sourceTree = "<group>"; };
+		0703CC9E3860F665EFFC6A3D5F10D056 /* Pods-HeroTimeSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HeroTimeSDK.release.xcconfig"; sourceTree = "<group>"; };
+		29DCF6DD6F1501DA5790F136266162D9 /* Pods-HeroTimeSDK-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HeroTimeSDK-frameworks.sh"; sourceTree = "<group>"; };
+		5CAA2BD44CB52569E5D47614517164A6 /* Pods-HeroTimeSDK-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HeroTimeSDK-resources.sh"; sourceTree = "<group>"; };
+		6977D1CB82230A99BDD44D056F344122 /* Pods-HeroTimeSDK-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HeroTimeSDK-dummy.m"; sourceTree = "<group>"; };
+		91C6D235D274BE09BC948F09906E9344 /* Pods-HeroTimeSDK-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HeroTimeSDK-acknowledgements.markdown"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		99FBDBD936A3AB64B47D1D1B50331981 /* Pods-TimeSDK-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TimeSDK-frameworks.sh"; sourceTree = "<group>"; };
-		CB88FACE4E77717FDE2345F878B6719E /* Pods-TimeSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TimeSDK.debug.xcconfig"; sourceTree = "<group>"; };
+		A312CF30D547B2DD64266B085F7F583E /* Pods-HeroTimeSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HeroTimeSDK.debug.xcconfig"; sourceTree = "<group>"; };
+		A57051F592A9DF0D590DE8428F0AA396 /* Pods-HeroTimeSDK-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HeroTimeSDK-acknowledgements.plist"; sourceTree = "<group>"; };
+		C96160C555A8E62AAF450B25670F6819 /* libPods-HeroTimeSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-HeroTimeSDK.a"; path = "libPods-HeroTimeSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5F40A362AAC3890B82DE69AF6DB9A5B1 /* Frameworks */ = {
+		4E57A279BE5869AEED9B4D72BC4CF7AA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,6 +33,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0BCAA295E62AEF7430E68D73C9F39505 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9126E36757A18061D9E2FD903711F7E7 /* Pods-HeroTimeSDK */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
 		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -40,64 +48,56 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		20195BF2DE1BF4271AFB216DC3341188 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				6C0E702B9EBC07625AB83A6A13F871C8 /* libPods-TimeSDK.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		2AE737E49B0F1FCFC7E57733222990F6 /* Pods-TimeSDK */ = {
-			isa = PBXGroup;
-			children = (
-				4F56CFB01DED5F05DA128E4B1CE38059 /* Pods-TimeSDK-acknowledgements.markdown */,
-				0DF6BCD826C09E645AD555933FCF2A30 /* Pods-TimeSDK-acknowledgements.plist */,
-				8A8C8138F779BE5DD9EDA55E2FA37537 /* Pods-TimeSDK-dummy.m */,
-				99FBDBD936A3AB64B47D1D1B50331981 /* Pods-TimeSDK-frameworks.sh */,
-				6EC52AE1911E1DB610CA9596CC9AA6D4 /* Pods-TimeSDK-resources.sh */,
-				CB88FACE4E77717FDE2345F878B6719E /* Pods-TimeSDK.debug.xcconfig */,
-				5E19B8044A449C97EEFA8FE42D2CB5DE /* Pods-TimeSDK.release.xcconfig */,
-			);
-			name = "Pods-TimeSDK";
-			path = "Target Support Files/Pods-TimeSDK";
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
-				20195BF2DE1BF4271AFB216DC3341188 /* Products */,
-				FAAD68B2E9D39F40DD22713095E27C41 /* Targets Support Files */,
+				8734D07615027F9CB54D5D3A955D3BD8 /* Products */,
+				0BCAA295E62AEF7430E68D73C9F39505 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		FAAD68B2E9D39F40DD22713095E27C41 /* Targets Support Files */ = {
+		8734D07615027F9CB54D5D3A955D3BD8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2AE737E49B0F1FCFC7E57733222990F6 /* Pods-TimeSDK */,
+				C96160C555A8E62AAF450B25670F6819 /* libPods-HeroTimeSDK.a */,
 			);
-			name = "Targets Support Files";
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9126E36757A18061D9E2FD903711F7E7 /* Pods-HeroTimeSDK */ = {
+			isa = PBXGroup;
+			children = (
+				91C6D235D274BE09BC948F09906E9344 /* Pods-HeroTimeSDK-acknowledgements.markdown */,
+				A57051F592A9DF0D590DE8428F0AA396 /* Pods-HeroTimeSDK-acknowledgements.plist */,
+				6977D1CB82230A99BDD44D056F344122 /* Pods-HeroTimeSDK-dummy.m */,
+				29DCF6DD6F1501DA5790F136266162D9 /* Pods-HeroTimeSDK-frameworks.sh */,
+				5CAA2BD44CB52569E5D47614517164A6 /* Pods-HeroTimeSDK-resources.sh */,
+				A312CF30D547B2DD64266B085F7F583E /* Pods-HeroTimeSDK.debug.xcconfig */,
+				0703CC9E3860F665EFFC6A3D5F10D056 /* Pods-HeroTimeSDK.release.xcconfig */,
+			);
+			name = "Pods-HeroTimeSDK";
+			path = "Target Support Files/Pods-HeroTimeSDK";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		645124AA8889B89B089C7E662D59ED1F /* Pods-TimeSDK */ = {
+		6D289FC1BF91BFD5A94A9E194DEFA38F /* Pods-HeroTimeSDK */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6D6BEFD51B32B8C6810D348157612D72 /* Build configuration list for PBXNativeTarget "Pods-TimeSDK" */;
+			buildConfigurationList = 661924D346E4C4DA1FEC92208BDA2531 /* Build configuration list for PBXNativeTarget "Pods-HeroTimeSDK" */;
 			buildPhases = (
-				4871B94A617E8D6070641F534C0BBA27 /* Sources */,
-				5F40A362AAC3890B82DE69AF6DB9A5B1 /* Frameworks */,
+				FB9C0B2E871E8428303F8E8BD9D288E5 /* Sources */,
+				4E57A279BE5869AEED9B4D72BC4CF7AA /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-TimeSDK";
-			productName = "Pods-TimeSDK";
-			productReference = 6C0E702B9EBC07625AB83A6A13F871C8 /* libPods-TimeSDK.a */;
+			name = "Pods-HeroTimeSDK";
+			productName = "Pods-HeroTimeSDK";
+			productReference = C96160C555A8E62AAF450B25670F6819 /* libPods-HeroTimeSDK.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -117,27 +117,49 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 20195BF2DE1BF4271AFB216DC3341188 /* Products */;
+			productRefGroup = 8734D07615027F9CB54D5D3A955D3BD8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				645124AA8889B89B089C7E662D59ED1F /* Pods-TimeSDK */,
+				6D289FC1BF91BFD5A94A9E194DEFA38F /* Pods-HeroTimeSDK */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4871B94A617E8D6070641F534C0BBA27 /* Sources */ = {
+		FB9C0B2E871E8428303F8E8BD9D288E5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FCE8761A7ABDF649DAB237C05AD4B158 /* Pods-TimeSDK-dummy.m in Sources */,
+				0A164A63B1876C242307FCF07AF62863 /* Pods-HeroTimeSDK-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		07292C752E8938B3E2238A67750AB3AA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0703CC9E3860F665EFFC6A3D5F10D056 /* Pods-HeroTimeSDK.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -201,31 +223,9 @@
 			};
 			name = Debug;
 		};
-		417530942A67E2CF0BAC92181E8A274A /* Release */ = {
+		B94024279EEA60F60C29CA4A2CB9E547 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5E19B8044A449C97EEFA8FE42D2CB5DE /* Pods-TimeSDK.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		F443B48C260B32B03911FF9F08E5B691 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = CB88FACE4E77717FDE2345F878B6719E /* Pods-TimeSDK.debug.xcconfig */;
+			baseConfigurationReference = A312CF30D547B2DD64266B085F7F583E /* Pods-HeroTimeSDK.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -314,11 +314,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6D6BEFD51B32B8C6810D348157612D72 /* Build configuration list for PBXNativeTarget "Pods-TimeSDK" */ = {
+		661924D346E4C4DA1FEC92208BDA2531 /* Build configuration list for PBXNativeTarget "Pods-HeroTimeSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F443B48C260B32B03911FF9F08E5B691 /* Debug */,
-				417530942A67E2CF0BAC92181E8A274A /* Release */,
+				B94024279EEA60F60C29CA4A2CB9E547 /* Debug */,
+				07292C752E8938B3E2238A67750AB3AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
