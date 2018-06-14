@@ -1,0 +1,6 @@
+framework module HeroCoinSDK {
+  umbrella header "HeroCoinSDK.h"
+
+  export *
+  module * { export * }
+}
