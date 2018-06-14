@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:TimeSDK.xcodeproj">
+      location = "group:/Users/joke/Desktop/&#x516c;&#x53f8;&#x9879;&#x76ee;&#x6587;&#x4ef6;/HeroTimeSDK/HeroTimeSDK.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

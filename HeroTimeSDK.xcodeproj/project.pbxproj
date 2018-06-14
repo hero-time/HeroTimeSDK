@@ -16,14 +16,14 @@
 		E22E3B9120D22E9C00D0528F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E22E3B9020D22E9C00D0528F /* main.m */; };
 		E22E3B9B20D2320700D0528F /* HeroCoinResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E22E3B9820D2320700D0528F /* HeroCoinResources.bundle */; };
 		E22E3B9C20D2320700D0528F /* HeroCoinSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E22E3B9A20D2320700D0528F /* HeroCoinSDK.framework */; };
-		E22E3B9E20D2379000D0528F /* TimeSDK.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */; };
+		E22E3B9E20D2379000D0528F /* HeroTimeSDK.podspec in Resources */ = {isa = PBXBuildFile; fileRef = E22E3B9D20D2378F00D0528F /* HeroTimeSDK.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		96B93A1A18FB0E709D327FFB /* Pods-TimeSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TimeSDK.release.xcconfig"; path = "Pods/Target Support Files/Pods-TimeSDK/Pods-TimeSDK.release.xcconfig"; sourceTree = "<group>"; };
 		CA991E398345535E1CD6B787 /* libPods-TimeSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TimeSDK.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE2AF28ED0E7EF9AF5F5C486 /* Pods-TimeSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TimeSDK.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TimeSDK/Pods-TimeSDK.debug.xcconfig"; sourceTree = "<group>"; };
-		E22E3B7E20D22E9A00D0528F /* TimeSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E22E3B7E20D22E9A00D0528F /* HeroHeroTimeSDK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeroHeroTimeSDK.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22E3B8120D22E9A00D0528F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E22E3B8220D22E9A00D0528F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		E22E3B8420D22E9A00D0528F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 		E22E3B9020D22E9C00D0528F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E22E3B9820D2320700D0528F /* HeroCoinResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = HeroCoinResources.bundle; sourceTree = "<group>"; };
 		E22E3B9A20D2320700D0528F /* HeroCoinSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = HeroCoinSDK.framework; sourceTree = "<group>"; };
-		E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TimeSDK.podspec; sourceTree = "<group>"; };
+		E22E3B9D20D2378F00D0528F /* HeroTimeSDK.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HeroTimeSDK.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +71,7 @@
 		E22E3B7520D22E9A00D0528F = {
 			isa = PBXGroup;
 			children = (
-				E22E3B9D20D2378F00D0528F /* TimeSDK.podspec */,
+				E22E3B9D20D2378F00D0528F /* HeroTimeSDK.podspec */,
 				E22E3B9720D2320700D0528F /* Assets */,
 				E22E3B9920D2320700D0528F /* Classes */,
 				E22E3B8020D22E9A00D0528F /* TimeSDK */,
@@ -84,7 +84,7 @@
 		E22E3B7F20D22E9A00D0528F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E22E3B7E20D22E9A00D0528F /* TimeSDK.app */,
+				E22E3B7E20D22E9A00D0528F /* HeroHeroTimeSDK.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,9 +124,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E22E3B7D20D22E9A00D0528F /* TimeSDK */ = {
+		E22E3B7D20D22E9A00D0528F /* HeroHeroTimeSDK */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E22E3B9420D22E9C00D0528F /* Build configuration list for PBXNativeTarget "TimeSDK" */;
+			buildConfigurationList = E22E3B9420D22E9C00D0528F /* Build configuration list for PBXNativeTarget "HeroHeroTimeSDK" */;
 			buildPhases = (
 				CED8EF178C4858739B640BF9 /* [CP] Check Pods Manifest.lock */,
 				E22E3B7A20D22E9A00D0528F /* Sources */,
@@ -137,9 +137,9 @@
 			);
 			dependencies = (
 			);
-			name = TimeSDK;
+			name = HeroHeroTimeSDK;
 			productName = TimeSDK;
-			productReference = E22E3B7E20D22E9A00D0528F /* TimeSDK.app */;
+			productReference = E22E3B7E20D22E9A00D0528F /* HeroHeroTimeSDK.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -156,7 +156,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E22E3B7920D22E9A00D0528F /* Build configuration list for PBXProject "TimeSDK" */;
+			buildConfigurationList = E22E3B7920D22E9A00D0528F /* Build configuration list for PBXProject "HeroTimeSDK" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -169,7 +169,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E22E3B7D20D22E9A00D0528F /* TimeSDK */,
+				E22E3B7D20D22E9A00D0528F /* HeroHeroTimeSDK */,
 			);
 		};
 /* End PBXProject section */
@@ -179,7 +179,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E22E3B9E20D2379000D0528F /* TimeSDK.podspec in Resources */,
+				E22E3B9E20D2379000D0528F /* HeroTimeSDK.podspec in Resources */,
 				E22E3B8E20D22E9C00D0528F /* LaunchScreen.storyboard in Resources */,
 				E22E3B8B20D22E9C00D0528F /* Assets.xcassets in Resources */,
 				E22E3B9B20D2320700D0528F /* HeroCoinResources.bundle in Resources */,
@@ -398,7 +398,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E22E3B7920D22E9A00D0528F /* Build configuration list for PBXProject "TimeSDK" */ = {
+		E22E3B7920D22E9A00D0528F /* Build configuration list for PBXProject "HeroTimeSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E22E3B9220D22E9C00D0528F /* Debug */,
@@ -407,7 +407,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E22E3B9420D22E9C00D0528F /* Build configuration list for PBXNativeTarget "TimeSDK" */ = {
+		E22E3B9420D22E9C00D0528F /* Build configuration list for PBXNativeTarget "HeroHeroTimeSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E22E3B9520D22E9C00D0528F /* Debug */,
