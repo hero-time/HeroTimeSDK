@@ -23,7 +23,8 @@ s.source       = { :git => "http://github.com/hero-time/HeroTimeSDK.git", :tag =
 
 s.vendored_frameworks = "Classes/*.framework"
 
-s.resource     = 'Assets/HeroCoinResources.bundle/**/*.png', 'Assets/HeroCoinResources.bundle/*.text'
+s.resource     = 'Assets/HeroCoinResources.bundle'
+#s.resource     = 'Assets/HeroCoinResources.bundle/**/*.png', 'Assets/HeroCoinResources.bundle/*.text'
 
 s.dependency "AFNetworking"
 s.dependency "Masonry"
