@@ -17,24 +17,14 @@
 + (instancetype)sharedInstance;
 
 /**
+ timeSDK 版本
+ */
+@property (nonatomic, copy, readonly) NSString *timeSDKVersion;
+
+/**
  游戏注册后获得的渠道标识符
  */
-@property (nonatomic, copy) NSString *gameId;
-
-/**
- 谷歌 GoogleClientID
- */
-@property (nonatomic, copy) NSString *GoogleClientID;
-
-@property (nonatomic, copy) NSString *FacebookAppID;
-@property (nonatomic, copy) NSString *FacebookSecret;
-
-
-/**
- * 登录
- */
-+ (void)timeLogInResult:(void (^)(NSDictionary *info, NSError *error))reasult;
-
+@property (nonatomic, copy) NSString *productId;
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions;
@@ -51,14 +41,25 @@
          annotation:(id)annotation;
 
 
-
+/**
+ * google GoogleClientID
+ */
+@property (nonatomic, copy) NSString *GoogleClientID;
 
 /**
- *用户充值
- *
- * @param dollar 充值金额，等效为美元。格式为 "##,##0.00"
+ * 登录
  */
-+ (void)userTopUpWithDollar:(NSString *)dollar;
++ (void)timeLogInResult:(void (^)(NSDictionary *info, NSError *error))reasult;
+
+/**
+ * 显示Time图标（time UI入口）
+ */
+- (void)showTimeIcon;
+
+/**
+ * 退出登录
+ */
+@property (nonatomic,   copy) dispatch_block_t logOut;
 
 /**
  * 用户分享游戏

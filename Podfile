@@ -3,14 +3,15 @@ platform :ios, '8.0'
 
 target 'HeroTimeSDK' do
 
-#pod 'AFNetworking'
-#pod 'Masonry'
-#pod 'JGProgressHUD'
-#pod 'MJRefresh'
-#pod 'YYModel'
-## Facebook登录SDK
-#pod 'FBSDKLoginKit'
-## Google登录SDK
-#pod 'GoogleSignIn'
+pod 'AFNetworking'
+pod 'Masonry'
+# Facebook登录SDK
+pod 'FBSDKLoginKit'
+# Google登录SDK
+pod 'GoogleSignIn'
+pod 'JGProgressHUD'
+pod 'MJRefresh'
+pod 'YYModel'
+pod 'Toast', '~> 4.0.0'
 
 end

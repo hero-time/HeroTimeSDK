@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <HeroCoinSDK/TimeSDK.h>
 
 @interface AppDelegate ()
 

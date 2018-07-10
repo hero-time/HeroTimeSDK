@@ -32,5 +32,6 @@ s.dependency "MJRefresh"
 s.dependency "YYModel"
 s.dependency "FBSDKLoginKit"
 s.dependency "GoogleSignIn"
+s.dependency "Toast"
 
 end
