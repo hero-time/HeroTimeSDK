@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "HeroTimeSDK"
-s.version      = "0.0.2.4"
+s.version      = "0.0.2.5"
 s.summary      = "HeroTimeSDK."
 
 s.description  = <<-DESC
@@ -32,7 +32,7 @@ s.dependency "JGProgressHUD"
 s.dependency "MJRefresh"
 s.dependency "YYModel"
 s.dependency "FBSDKLoginKit"
-s.dependency "GoogleSignIn"
+s.dependency "YYImage"
 s.dependency "Toast"
 
 end
