@@ -328,5 +328,12 @@
   "transfer_confirmMemo" : "Memo",
   "withdraw_password_error" : "The password was entered incorrectly. Please re-enter it.",
   "login_gamecenter" : "Please login GameCenter in setting",
+"login_mailbox" : "In order to bring you better service, please fill in the common mailbox:",
+"login_mailbox_cancel" : "Cancel",
+"login_mailbox_submit" : "Submit",
+"login_mailbox_error1" : "Please enter a regular email address",
+"login_mailbox_error2" : "Please enter the normal EMAIL format",
+"login_mailbox_success" : "Submitted successfully",
+"login_binding_success" : "Binding success",
   "transaction_inquiry_block" : "Height:"
 }

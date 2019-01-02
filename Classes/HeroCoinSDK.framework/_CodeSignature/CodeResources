@@ -20,13 +20,13 @@
 		<data>
 		bj4ER9oBhe0bnZjrcD8fReUcZO0=
 		</data>
-		<key>HeroCoinSDK</key>
+		<key>Info.plist</key>
 		<data>
-		drryCNb75pASiorEnJDVJSYo1Fk=
+		b61BsuLVBZhZKRxtvKEguDo+15k=
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		xr6iyYk1SHKraI0VgLSACJ3dbE0=
+		GM23wcNrrtjKy+c6A5JjwcT3qls=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		E7HgYLHk9rtchJQB35oJWII5tZM=
+		Dv/AjfaoMEbOx1oEbqUcvASD/UQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,26 +87,15 @@
 			s33bbw2ZS/v65JB9PSlboZe6n+7M+Rq4nP0zk7M9XWo=
 			</data>
 		</dict>
-		<key>HeroCoinSDK</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			drryCNb75pASiorEnJDVJSYo1Fk=
-			</data>
-			<key>hash2</key>
-			<data>
-			1HKot24oph+/H+3SZDmpJPiTMKfzw/TD1j4JVuDZFjo=
-			</data>
-		</dict>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xr6iyYk1SHKraI0VgLSACJ3dbE0=
+			GM23wcNrrtjKy+c6A5JjwcT3qls=
 			</data>
 			<key>hash2</key>
 			<data>
-			aiPLdJ9n7ecTyIZVjsEjWldefGV80O1aLYHeH0zPljU=
+			yMFXz4eB2BLUyyRCJhgcOffpjCKevY25yPlD32i4Glk=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -124,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E7HgYLHk9rtchJQB35oJWII5tZM=
+			Dv/AjfaoMEbOx1oEbqUcvASD/UQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bAPqwGQQoSE4kRGrd3TsjJVUXH3axs9vsQLHyIej9Ms=
+			xo0GGMB/rf10lfh3mW8Hj/VpPVfd5DIiwnyxGrghHwI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

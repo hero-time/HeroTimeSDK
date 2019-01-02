@@ -328,5 +328,12 @@
   "transfer_confirmMemo" : "备注",
   "withdraw_password_error" : "密码输入错误，请重新输入",
   "login_gamecenter" : "请在设置-GameCenter进行账号登录",
+  "login_mailbox" : "为了给您带来更好的服务，请填写常用邮箱",
+  "login_mailbox_cancel" : "取消",
+  "login_mailbox_submit" : "提交",
+  "login_mailbox_error1" : "请输入常用邮箱",
+  "login_mailbox_error2" : "请输入正常的EMAIL格式",
+  "login_mailbox_success" : "提交成功",
+  "login_binding_success" : "绑定成功",
   "transaction_inquiry_block" : "区块高度："
 }

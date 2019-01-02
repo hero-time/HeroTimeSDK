@@ -328,5 +328,12 @@
   "transfer_confirmMemo" : "備註",
   "withdraw_password_error" : "密碼輸入錯誤，請重新輸入",
   "login_gamecenter" : "請在設置-GameCenter進行帳號登錄",
+"login_mailbox" : "為了給您帶來更好的服務，請填寫常用郵箱",
+"login_mailbox_cancel" : "取消",
+"login_mailbox_submit" : "提交",
+"login_mailbox_error1" : "請輸入常用郵箱",
+"login_mailbox_error2" : "請輸入正常的EMAIL格式",
+"login_mailbox_success" : "提交成功",
+"login_binding_success" : "綁定成功",
   "transaction_inquiry_block" : "區塊高度："
 }
