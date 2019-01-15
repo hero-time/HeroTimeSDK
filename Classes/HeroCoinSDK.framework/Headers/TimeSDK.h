@@ -12,6 +12,12 @@
 @class UIApplication;
 
 
+typedef NS_ENUM(NSUInteger, EnvironmentType) {
+    EnvironmentTypeWithTest,            //测试环境
+    EnvironmentTypeWithPre_production,  //预生产环境
+    EnvironmentTypeWithProduction,      //生产环境
+};
+
 typedef void (^LoginResult)(NSDictionary *info, NSError *error);
 typedef void (^LogoutResult)(BOOL success);
 
@@ -30,6 +36,10 @@ typedef void (^LogoutResult)(BOOL success);
  游戏注册后获得的 包体标识符
  */
 @property (nonatomic, copy) NSString *projectId;
+/**
+ * SDK环境，对接不同服务器，默认为测试环境
+ */
+@property (nonatomic, assign) EnvironmentType environmentType;
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions;
@@ -89,5 +99,10 @@ typedef void (^LogoutResult)(BOOL success);
  timeSDK 版本
  */
 @property (nonatomic, copy, readonly) NSString *timeSDKVersion;
+
+/**
+ 游戏断线标记，默认没断线
+ */
+@property (nonatomic,assign,)BOOL isOffLine;
 
 @end

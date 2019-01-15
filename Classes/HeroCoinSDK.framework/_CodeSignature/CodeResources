@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/TimeSDK.h</key>
 		<data>
-		FO7lJoz/mBAjmvA61Gu9Hr0KZfM=
+		Q/TdEdzbh4OOd/u9iC13jif5INA=
 		</data>
 		<key>Headers/TradeResuleStatus.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		b61BsuLVBZhZKRxtvKEguDo+15k=
+		cwjagKyS2OrF2FwNuimcSRxI5Tk=
 		</data>
 		<key>Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		Z5a3EqLkFbQoMjrjWsu9SbvpzoQ=
+		NsRVz2y15r39IQ+K7wGTZ2q8/oM=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		2pctMRS5y/ZStn/3HbuZ1WWF52g=
+		wZp2RVyDU/i1C5DUQ03iuEsp9J4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -69,11 +69,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FO7lJoz/mBAjmvA61Gu9Hr0KZfM=
+			Q/TdEdzbh4OOd/u9iC13jif5INA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jErragB8UMyTeRBi8GcJjTxLadZPZbybfogp5M5pAMg=
+			5cRkaDrLpp1SmeEeSLLU9PkHWpjcWrfkbEyKGCk9yD8=
 			</data>
 		</dict>
 		<key>Headers/TradeResuleStatus.h</key>
@@ -91,11 +91,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z5a3EqLkFbQoMjrjWsu9SbvpzoQ=
+			NsRVz2y15r39IQ+K7wGTZ2q8/oM=
 			</data>
 			<key>hash2</key>
 			<data>
-			84DvimVhDlS1gRu6Unl/p04TCobBJbpqKPi6HSvzXF4=
+			Ry1Uc35+owGd/Pa6rVg8ECCvF8vCMCqbhM0vIBZRYa8=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
@@ -113,11 +113,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2pctMRS5y/ZStn/3HbuZ1WWF52g=
+			wZp2RVyDU/i1C5DUQ03iuEsp9J4=
 			</data>
 			<key>hash2</key>
 			<data>
-			LPEY30hbIzDQtgmxb+TzZ+vO0pSVRwCMkVHuCkjHeD4=
+			S5a5K6YrinF0PJeRv0+6IFuedYbFd2vp9aEJwz7arYk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

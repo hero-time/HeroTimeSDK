@@ -320,7 +320,7 @@
   "home_GameAssets" : "本游戏TMT资产",
   "wallet_record_block" : "区块",
   "wallet_changeName_title" : "更换钱包名",
-  "home_update_realtime" : "实时更新",
+  "home_update_realtime" : "每小时更新",
   "startUp_initialSuccessful" : "初始化成功",
   "wallet_create_backup" : "备份钱包",
   "introduction_contributions_description0" : "贡献度是玩家获取TMT的影响元素，TIME社区将根据玩家每天23:59:59（GMT+8）时的贡献度计算当天的TMT奖励。\n    贡献度越高，每日获得的TMT奖励将越多。\n    每个游戏的贡献度每天单独计算，若当天未登录游戏，则当天没有TMT奖励。\n    计算关系：\n    ",
@@ -335,5 +335,6 @@
   "login_mailbox_error2" : "请输入正常的EMAIL格式",
   "login_mailbox_success" : "提交成功",
   "login_binding_success" : "绑定成功",
+"settings_copied" : "已复制",
   "transaction_inquiry_block" : "区块高度："
 }

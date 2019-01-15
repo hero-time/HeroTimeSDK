@@ -320,7 +320,7 @@
   "home_GameAssets" : "Game assets（TMT）",
   "wallet_record_block" : "Block",
   "wallet_changeName_title" : "Change Wallet Name",
-  "home_update_realtime" : "updated in real time",
+  "home_update_realtime" : "Hourly update",
   "startUp_initialSuccessful" : "Initialization successful",
   "wallet_create_backup" : "Go Backup Now",
   "introduction_contributions_description0" : "Contributions are the player's influence on the TMT. The TIME community  calculates the TMT reward for the day based on the player’s daily  contribution at 23:59:59(GMT+8).\n    The higher the contribution, the more TMT rewards will be earned.\n    The contribution of each game is calculated separately every day.If you did  not log in today, there is no TMT reward today.\n    Calculating relations:",
@@ -335,5 +335,6 @@
 "login_mailbox_error2" : "Please enter the normal EMAIL format",
 "login_mailbox_success" : "Submitted successfully",
 "login_binding_success" : "Binding success",
+  "settings_copied" : "Copied",
   "transaction_inquiry_block" : "Height:"
 }
